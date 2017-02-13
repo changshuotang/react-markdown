@@ -1,7 +1,7 @@
 React Markdown Notebook
 =======================
 
-![Image](http://imgur.com/XU0yxxa.png)
+![Image](http://i.imgur.com/qqaMgPA.png)
 
 Web app for taking simple notes, with markdown support.
 
