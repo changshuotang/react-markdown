@@ -1,0 +1,16 @@
+.titles-container {
+  height: 75px !important;
+  text-align: center;
+  border: solid transparent;
+  border-bottom: solid grey;
+  border-width: 0.5pt;
+}
+
+.titles {
+  line-height: 75px;
+  margin: 0;
+}
+
+.titles-container:hover {
+  background-color: #F0F0F0 ;
+}
