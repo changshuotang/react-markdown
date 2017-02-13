@@ -1,7 +1,7 @@
 React Markdown Notebook
 =======================
 
-Web app for simple notes, with markdown support.
+Web app for taking simple notes, with markdown support.
 
 With npm installed run the following command in the project directory:
 
@@ -9,5 +9,5 @@ With npm installed run the following command in the project directory:
 
 ### `npm start`
 
-This will open the app on a devlopment server.
-Open http://localhost:8000 to view the app in browser.
+This will start the app on a devlopment server.
+Open [http://localhost:8000] to view the app in browser.
