@@ -1,6 +1,8 @@
 React Markdown Notebook
 =======================
 
+![Image](http://imgur.com/XU0yxxa)
+
 Web app for taking simple notes, with markdown support.
 
 With npm installed run the following command in the project directory:
